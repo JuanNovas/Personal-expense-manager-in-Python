@@ -38,7 +38,7 @@ To run the application, simply run the main.py file:
 - extra/: Directory containing extra functionalities used throughout the program.
 
 ## Screenshots 📸
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.JPG)
 
 ## License 📄
 This project is licensed under the MIT License.
