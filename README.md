@@ -5,8 +5,9 @@
 
 ## ✨ Features 
 - **Income and expense management**: Allows you to easily record and categorize income and expenses.
-- **Customizable budget**: users can have a personalized budget to make it easier to stay within expenses.
+- **Customizable budget**: Users can have a personalized budget to make it easier to stay within expenses.
 - **Reports and statistics**: Generates visual reports for a better understanding of financial habits.
+- **Reminders**: Users can create expense reminders and record them automatically.
 - **User-friendly graphical interface**: Intuitive design for easy navigation and use.
 
 ## 📋 Requirements 
