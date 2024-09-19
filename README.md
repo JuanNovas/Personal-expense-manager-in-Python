@@ -49,5 +49,3 @@ For questions, suggestions or comments, please contact [juaninovas@gmail.com](ma
 
 ## 🙏 Acknowledgements
 Thank you for using Personal Expense Manager! If you encounter any problems or have any suggestions, feel free to open an issue on GitHub.
-
-Translated with DeepL.com (free version)
